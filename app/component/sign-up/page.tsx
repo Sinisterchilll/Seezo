@@ -15,7 +15,7 @@ export default function AuthPage() {
       
       <Card className="w-[350px]">
         <CardHeader className="space-y-1">
-          <CardTitle className="text-2xl">Welcome to LaunchPad.js</CardTitle>
+          <CardTitle className="text-2xl">Welcome to Seezo</CardTitle>
           <CardDescription>
             Choose your preferred sign in method
           </CardDescription>
