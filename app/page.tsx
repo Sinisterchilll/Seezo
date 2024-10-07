@@ -37,7 +37,7 @@ export default function SeezoLanding() {
           </p>
           <div className="flex justify-center space-x-4">
             <Button className="bg-blue-600 text-white hover:bg-blue-700" onClick={() => {
-              router.push('/assesment');
+              router.push('/component/sign-up');
             }}>
               Start for free<ArrowRight className="ml-2 h-4 w-4" />
             </Button>
